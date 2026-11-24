@@ -1,0 +1,10 @@
+Operator,Radio interface,Inactivity timer (s),cDRX activation
+OPNo1,NB-IoT,5,No
+OPNo1,LTE-M,4,Yes
+OPNo2,NB-IoT,10,Yes
+OPNo2,LTE-M,5,Yes
+OPSw1,NB-IoT,5,No
+OPSw1,LTE-M,10,Yes
+OPSw2,NB-IoT,5,No
+OPSw2,LTE-M,4,Yes
+OPSw3,LTE-M,10,Yes
