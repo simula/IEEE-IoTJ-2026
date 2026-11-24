@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the associated paper."
+type: dataset
+title: "Section IV data and reproducibility code for Impact of Suboptimal Configurations on Energy Efficiency and Latency in Commercial Cellular IoT"
+version: 1.0.1
+authors:
+  - family-names: Ali
+    given-names: Jameel
+  - family-names: Michelinakis
+    given-names: Foivos Ioannis
+  - family-names: Caso
+    given-names: Giuseppe
+  - family-names: Grinnemo
+    given-names: Karl-Johan
+  - family-names: Rajiullah
+    given-names: Mohammad
+  - family-names: Cicic
+    given-names: Tarik
